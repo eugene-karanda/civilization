@@ -1,4 +1,4 @@
-package org.overmind.civilization
+package org.overmind.civilization.server
 
 import org.springframework.stereotype.Component
 import org.springframework.web.reactive.socket.WebSocketHandler

@@ -1,6 +1,6 @@
-package org.overmind.civilization.config
+package org.overmind.civilization.server.config
 
-import org.overmind.civilization.SumChannel
+import org.overmind.civilization.server.SumChannel
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.web.reactive.HandlerMapping

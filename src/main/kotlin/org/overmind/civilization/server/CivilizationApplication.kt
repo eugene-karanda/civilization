@@ -1,4 +1,4 @@
-package org.overmind.civilization
+package org.overmind.civilization.server
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

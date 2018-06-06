@@ -1,4 +1,4 @@
-package org.overmind.civilization
+package org.overmind.civilization.server
 
 import org.assertj.core.api.Assertions
 import org.junit.Before

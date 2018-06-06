@@ -1,7 +1,7 @@
-package org.overmind.civilization.api
+package org.overmind.civilization.server.api
 
-import org.overmind.civilization.Game
-import org.overmind.civilization.GameRepository
+import org.overmind.civilization.server.Game
+import org.overmind.civilization.server.GameRepository
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RequestMapping

@@ -1,4 +1,4 @@
-package org.overmind.civilization
+package org.overmind.civilization.server
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import org.springframework.core.ResolvableType

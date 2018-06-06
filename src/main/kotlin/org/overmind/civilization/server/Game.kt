@@ -1,4 +1,4 @@
-package org.overmind.civilization
+package org.overmind.civilization.server
 
 import org.springframework.data.annotation.Id
 import org.springframework.data.annotation.TypeAlias
