@@ -9,6 +9,7 @@ import java.util.*
 @TypeAlias("game")
 data class Game(
         val name: String,
+        val owner: String,
         @Id val id: String = UUID.randomUUID().toString()
 )
 
